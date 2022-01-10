@@ -8,5 +8,5 @@ The process of developing a simple voting system, protecting its secrecy,and mai
 Goal of this project  is to build simple voting web applications one using Blockchain and one using Traditional database. Compare both in different aspects which includes transparency, the assurance of the data recorder are correct, accurate and coming from the official source and Data handling which is how the data to be shared easily across organizations and how accessible and shareable it is.
 
 ### Voting System Folders
-* [Tradtional Database Voting System]()
-* [Blockchain Voting System]()
+* [Tradtional Database Voting System](https://github.com/HassanEissaa/Voting-systems/tree/main/Traditional%20Database%20Voting%20System)
+* [Blockchain Voting System](https://github.com/HassanEissaa/Voting-systems/tree/main/Blockchain%20Voting%20System)
